@@ -61,11 +61,9 @@ With more time, I would:
 
 3. **Testing**
    - Add unit tests for all routes and models
-   - Implement integration tests
-   - Add test coverage reporting
 
 4. **DevOps**
    - Add Docker configuration
 
 5. **Documentation**
-   - Add API documentation (Swagger/OpenAPI)
+   - Add API documentation
