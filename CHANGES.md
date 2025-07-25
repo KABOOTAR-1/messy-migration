@@ -14,7 +14,6 @@
    - No input validation for user data
 
 3. **Code Organization**
-   - No separation between development and production configurations
    - Missing proper error handling and logging
 
 ## Changes Made
